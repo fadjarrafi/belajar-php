@@ -1,0 +1,7 @@
+{
+    "name": "fadjar/belajar-php",
+    "description": "modul belajar pemrograman web dengan PHP",
+    "type": "project",
+    "license": "GPL",
+    "require": {}
+}
